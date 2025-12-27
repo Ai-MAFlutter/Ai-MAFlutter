@@ -1,16 +1,28 @@
-## Hi there 👋
+Hi 👋 I'm Marina Wahid 
+Flutter Developer | AI Student  
 
-<!--
-**Ai-MAFlutter/Ai-MAFlutter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 Studied Neural Networks & Machine Learning basics  
 
-Here are some ideas to get you started:
+🛠 Skills:
+- Flutter & Dart
+- Python
+- REST APIs
+- Git & GitHub
+- Neural Networks (Basics)
+- Machine Learning (Basics)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📂 Projects:
+- 🍽 Restaurant Chain App (Flutter)
+- 🛒 Supermarket App (Flutter)
+- 📰 Flutter News App
+- 💬 Simple Flutter Messenger
+- 👤 Random Users App
+- ⚖️ BMI Calculator
+
+🌱 Currently learning:
+- Advanced Flutter
+- Clean Architecture
+- Machine Learning
+
+📫 Connect with me:
+- LinkedIn: [[Add your link here](https://www.linkedin.com/in/marina-wahid-a5769b393/)]
