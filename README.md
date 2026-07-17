@@ -36,7 +36,6 @@ I enjoy combining **Flutter**, **Python**, and **Artificial Intelligence** to cr
 
 Currently, I'm expanding my knowledge in **Machine Learning**, **Deep Learning**, **Natural Language Processing (NLP)**, **Computer Vision**, **Large Language Models (LLMs)**, and **Retrieval-Augmented Generation (RAG)** through hands-on projects.
 
----
 
 ## 🚀 Core Technologies
 
