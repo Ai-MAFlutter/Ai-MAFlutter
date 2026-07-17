@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Marina Wahid</h1>
 
 <h3 align="center">
-Flutter Developer • AI & Machine Learning Enthusiast • Python Developer
+Artificial Intelligence Enthusiast | Flutter Developer | Python Developer
 </h3>
 
 <p align="center">
-Building intelligent software with Flutter, Python, and Artificial Intelligence.
+Building intelligent applications with Flutter, Python, and Artificial Intelligence, combining modern UI experiences with AI-powered solutions.
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=850&lines=Flutter+Developer;AI+%26+Machine+Learning+Enthusiast;Building+AI+Applications;Learning+Deep+Learning;Python+Developer;Always+Building+Something+New+🚀"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=850&lines=AI+Developer;Flutter+Developer;Python+Developer;Deep+Learning+Learner;LLMs+%26+RAG+Explorer;Building+Intelligent+Applications+🚀"/>
+
 </p>
 
 <p align="center">
@@ -25,7 +27,6 @@ Building intelligent software with Flutter, Python, and Artificial Intelligence.
 <img src="https://komarev.com/ghpvc/?username=Ai-MAFlutter&style=for-the-badge&color=7C3AED"/>
 
 </p>
----
 
 # 💜 About Me
 
@@ -304,28 +305,21 @@ https://github.com/Ai-MAFlutter/Clean-Flutter-Login-Flow
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ai-MAFlutter&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ai-MAFlutter&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ai-MAFlutter&layout=compact&theme=tokyonight&hide_border=true"/>
+<br/>
 
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ai-MAFlutter&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ai-MAFlutter&layout=compact&theme=tokyonight&hide_border=true" />
 
 </p>
-
----
 
 # 🏆 GitHub Achievements
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ai-MAFlutter&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Ai-MAFlutter&theme=tokyonight&no-frame=true&margin-w=10" />
 
 </p>
-
 ---
 
 # 🎯 Current Focus
