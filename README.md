@@ -5,12 +5,12 @@ Artificial Intelligence Developer | Flutter Developer | Python Developer
 </h3>
 
 <p align="center">
-Building intelligent applications with Flutter, Python, and Artificial Intelligence, combining modern UI experiences with AI-powered solutions.
+Building intelligent applications with Flutter, Python, and Artificial Intelligence, combining modern user experiences with AI-powered solutions.
 </p>
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+Enthusiast;Flutter+Developer;Building+AI-Powered+Applications;Python+Developer;Machine+Learning+%26+Deep+Learning+Explorer;LLMs+%26+RAG+Learner+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+Developer;Flutter+Developer;Python+Developer;Building+AI-Powered+Applications;Machine+Learning+Explorer;Deep+Learning+Learner;LLMs+%26+RAG+Explorer+🚀"/>
 
 </p>
 
@@ -297,17 +297,6 @@ A reusable authentication module following Clean Architecture principles.
 🔗 **Repository**
 
 https://github.com/Ai-MAFlutter/Clean-Flutter-Login-Flow
-
----
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ai-MAFlutter&show_icons=true&hide_border=true&theme=tokyonight" />
-
-</p>
 
 ---
 
