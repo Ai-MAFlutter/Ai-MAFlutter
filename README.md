@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marina Wahid</h1>
 
 <h3 align="center">
-Artificial Intelligence Enthusiast | Flutter Developer | Python Developer
+Artificial Intelligence Developer | Flutter Developer | Python Developer
 </h3>
 
 <p align="center">
@@ -10,7 +10,7 @@ Building intelligent applications with Flutter, Python, and Artificial Intellige
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=850&lines=AI+Developer;Flutter+Developer;Python+Developer;Deep+Learning+Learner;LLMs+%26+RAG+Explorer;Building+Intelligent+Applications+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+Enthusiast;Flutter+Developer;Building+AI-Powered+Applications;Python+Developer;Machine+Learning+%26+Deep+Learning+Explorer;LLMs+%26+RAG+Learner+🚀"/>
 
 </p>
 
@@ -305,21 +305,10 @@ https://github.com/Ai-MAFlutter/Clean-Flutter-Login-Flow
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ai-MAFlutter&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ai-MAFlutter&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ai-MAFlutter&show_icons=true&hide_border=true&theme=tokyonight" />
 
 </p>
 
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ai-MAFlutter&theme=tokyonight&no-frame=true&margin-w=10" />
-
-</p>
 ---
 
 # 🎯 Current Focus
