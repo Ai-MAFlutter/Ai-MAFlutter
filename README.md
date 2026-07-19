@@ -151,15 +151,21 @@ Python • NumPy • Pandas • Scikit-learn • TensorFlow • PyTorch • Open
 
 ## 🌱 Currently Exploring
 
-- 🤖 Deep Learning
-- 👁️ Computer Vision
-- 💬 Natural Language Processing (NLP)
-- 📚 Large Language Models (LLMs)
-- 🔍 Retrieval-Augmented Generation (RAG)
-- ⚡ LangChain
-- 🗄️ Vector Databases
-- 🤖 AI Agents
-- ☁️ MLOps
+<p align="center">
+
+<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Computer%20Vision-009688?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LLMs-7C3AED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RAG-0EA5E9?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI%20Agents-795548?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/MLOps-607D8B?style=for-the-badge"/>
+
+</p>
 ---
 
 # 🚀 Featured Projects
