@@ -320,56 +320,6 @@ https://github.com/Ai-MAFlutter/Clean-Flutter-Login-Flow
 
 </p>
 
-
-# 🎯 Current Focus
-
-I'm currently focusing on building practical projects that combine **Artificial Intelligence** and **Flutter Development**.
-
-### 🤖 Artificial Intelligence
-
-- Machine Learning
-- Deep Learning *(Learning)*
-- Natural Language Processing *(Learning)*
-- Computer Vision *(Learning)*
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-
-### 📱 Flutter
-
-- Clean Architecture
-- State Management
-- Supabase Integration
-- REST APIs
-- Production-ready Applications
-
----
-
-# 🗺️ Learning Roadmap
-
-| Status | Goal |
-|---------|------|
-| ✅ | Python |
-| ✅ | Data Analysis |
-| ✅ | Machine Learning |
-| ✅ | Flutter Development |
-| 🔄 | Deep Learning |
-| 🔄 | Computer Vision |
-| 🔄 | NLP |
-| 🔄 | LLM Engineering |
-| 🔄 | RAG Systems |
-| 🎯 | AI Agents |
-| 🎯 | MLOps |
-
----
-
-# 🌟 Open Source Journey
-
-I believe in **learning by building**.
-
-Every repository on my GitHub represents a new concept I've learned and applied through real-world projects.
-
-My goal is to continuously improve my skills, contribute to the open-source community, and build intelligent software that creates real value.
-
 ---
 
 # 📫 Connect With Me
