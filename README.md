@@ -42,21 +42,15 @@ Currently, I'm expanding my knowledge in **Machine Learning**, **Deep Learning**
 <p align="center">
 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Machine%20Learning-FF9800?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Deep%20Learning-7C3AED?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/Generative%20AI-E91E63?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/NLP-0EA5E9?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/RAG-10B981?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge"/>
 
 </p>
-
 
 # 🛠️ Tech Stack
 
@@ -153,16 +147,12 @@ Python • NumPy • Pandas • Scikit-learn • TensorFlow • PyTorch • Open
 
 <p align="center">
 
+<img src="https://img.shields.io/badge/Generative%20AI-E91E63?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Computer%20Vision-009688?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/LLMs-7C3AED?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/RAG-0EA5E9?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/AI%20Agents-795548?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/MLOps-607D8B?style=for-the-badge"/>
 
 </p>
