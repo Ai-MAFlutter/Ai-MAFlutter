@@ -81,41 +81,30 @@ Currently, I'm expanding my knowledge in **Machine Learning**, **Deep Learning**
 ## 🤖 Artificial Intelligence
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"/>
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Machine%20Learning-4285F4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/NLP-8E44AD?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Computer%20Vision-16A085?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LLMs-7C3AED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RAG-0EA5E9?style=for-the-badge"/>
 
 </p>
 
-### 🧠 Machine Learning
+<p align="center">
 
-- Python
-- NumPy
-- Pandas
-- Scikit-learn
-- Data Preprocessing
-- Feature Engineering
-- Model Evaluation
+Python • NumPy • Pandas • Scikit-learn • TensorFlow • PyTorch • OpenCV • Prompt Engineering • Embeddings
 
-### 🔥 Deep Learning
-
-- TensorFlow *(Learning)*
-- PyTorch *(Learning)*
-- Neural Networks
-- Keras *(Learning)*
-
-### 💬 Natural Language Processing
-
-- Text Processing
-- Prompt Engineering
-- Embeddings
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-
-### 👁️ Computer Vision
-
-- OpenCV *(Learning)*
-- Image Processing
-- CNN Fundamentals *(Learning)*
+</p>
 
 ---
 
