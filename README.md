@@ -238,7 +238,6 @@ Reusable Flutter authentication module built with Clean Architecture principles 
 https://github.com/Ai-MAFlutter/Clean-Flutter-Login-Flow
 
 ---
----
 
 # 📊 GitHub Statistics
 
@@ -276,13 +275,6 @@ https://github.com/Ai-MAFlutter/Clean-Flutter-Login-Flow
 
 </p>
 
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Ai-MAFlutter&style=for-the-badge&color=7C3AED"/>
-
-</p>
 
 ---
 
