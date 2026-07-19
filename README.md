@@ -293,6 +293,76 @@ A reusable authentication module following Clean Architecture principles.
 https://github.com/Ai-MAFlutter/Clean-Flutter-Login-Flow
 
 ---
+# 🚀 Featured Projects
+
+Here are some of the projects I've built in Flutter, Artificial Intelligence, and Machine Learning.
+
+---
+
+## 🤖 ResumeMatch AI
+
+AI-powered resume analysis using **RAG** and **LLMs** to evaluate resumes against job descriptions, generate ATS scores, identify missing skills, and provide AI-driven recommendations.
+
+**🛠️ Tech Stack**
+
+`Python` `Streamlit` `Groq API` `RAG` `LLMs` `MinSearch` `Plotly`
+
+🔗 **Repository**  
+https://github.com/Ai-MAFlutter/ResumeMatch-AI
+
+---
+
+## 💬 TechMatch AI Copilot
+
+AI-powered technical interview assistant that leverages semantic search and Retrieval-Augmented Generation (RAG) to deliver accurate, context-aware answers.
+
+**🛠️ Tech Stack**
+
+`Python` `Streamlit` `Groq API` `RAG` `LLMs`
+
+🔗 **Repository**  
+https://github.com/Ai-MAFlutter/TechMatch-RAG-Copilot
+
+---
+
+## 📊 Student Performance Prediction
+
+Machine Learning project for predicting students' academic performance through data preprocessing, feature engineering, visualization, and predictive modeling.
+
+**🛠️ Tech Stack**
+
+`Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib`
+
+🔗 **Repository**  
+https://github.com/Ai-MAFlutter/Student-Performance-Prediction
+
+---
+
+## 🛒 SupaFlow Grocery
+
+A full-stack Flutter grocery shopping application featuring Supabase authentication, database integration, and real-time functionality.
+
+**🛠️ Tech Stack**
+
+`Flutter` `Dart` `Supabase`
+
+🔗 **Repository**  
+https://github.com/Ai-MAFlutter/Flutter-SupaFlow-Grocery
+
+---
+
+## 🔐 Clean Flutter Login Flow
+
+Reusable Flutter authentication module built with Clean Architecture principles for scalable and maintainable applications.
+
+**🛠️ Tech Stack**
+
+`Flutter` `Dart` `Supabase`
+
+🔗 **Repository**  
+https://github.com/Ai-MAFlutter/Clean-Flutter-Login-Flow
+
+---
 ---
 
 # 📊 GitHub Statistics
